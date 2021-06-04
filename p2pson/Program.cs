@@ -41,7 +41,7 @@ namespace p2pson
                     }
                     catch
                     {
-                        Console.WriteLine("1. Hata Oluştu...");
+                        Console.WriteLine("1. Hata Oluştu..");
                     }
                 }
                 if (i % 2 == 0)
